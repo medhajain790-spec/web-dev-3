@@ -1,9 +1,9 @@
-const os=require('os');
-const path=require("path")
-const fs=require("fs")
-const crypto=require("crypto")
-const dns=require("dns")
-const process=require("process")
+// const os=require('os');
+// const path=require("path")
+// const fs=require("fs")
+// const crypto=require("crypto")
+// const dns=require("dns")
+// const process=require("process")
 
 // console.log(os.platform())
 // console.log(os.arch())
@@ -51,7 +51,7 @@ const process=require("process")
 
 // const password="Alex@1235"
 
-//same hash code generate
+// // same hash code generate
 // const hash=crypto.createHash("sha256").update(password).digest("hex");
 // console.log(hash);
 
